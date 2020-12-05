@@ -1,0 +1,19 @@
+{
+    "name": "@sportshead/tsx-component",
+    "dependencies": {
+        "inquirer": "^7.3.3"
+    },
+    "license": "MIT",
+    "version": "1.0.0",
+    "author": "sportshead",
+    "main": "index.js",
+    "repository": "https://github.com/sportshead/tsx-component.git",
+    "homepage": "https://github.com/sportshead/tsx-component#readme",
+    "keywords": [
+        "typescript",
+        "tsx",
+        "react",
+        "component"
+    ],
+    "description": "A small script to generate a TSX component."
+}
